@@ -1,4 +1,5 @@
-package java_hw.sem_1_java.sem_2_java;
+package java_hw.sem_2_java;
+
 //В файле содержится строка с исходными данными в такой форме:
 //          {"name":"Ivanov", "country":"Russia", "city":"Moscow", "age":"null"}
 //          Требуется на её основе построить и вывести на экран новую строку, в форме SQL запроса:
